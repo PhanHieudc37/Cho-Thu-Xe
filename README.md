@@ -1,6 +1,9 @@
 # Cho-Thu-Xe
 Hệ thống cho thuê xe là phần mềm được xây dựng để xử lý việc cho thuê xe máy trong thời gian ngắn, thường kéo dài từ vài giờ đến vài tuần. Hệ thống cho thuê xe thường có nhiều chi nhánh địa phương. Sử dụng công nghệ : React Native, Node js. My spl, payment, momo sdk, restful. maps
+
+
 I.	Quy trình nghiệp vụ chung.
+
 Yêu cầu hệ thống:
 1.	Hệ thống cho hỗ trợ cho thuê các loại xe máy: xe số, xe tay ga , xe phân khối lớn PKL và xe điện  
 2.	Mỗi xe được có mã vạch riêng và có thông tin chi tiết: biển số, hãng xe, dung tích động cơ , màu sắc, số KM đã đi , và vị trí đỗ xe(khu vực , bãi đỗ) , tình trạng xe.
@@ -157,7 +160,8 @@ Service: Lưu trữ thông tin chi tiết về các loại dịch khách nhau m�
 Bill: Gồm các mục hóa đơn khác nhau cho mỗi khoản phí đặt trước.
 
 
-Biểu Đồ ERD:
+Biểu Đồ ERD:![image](https://github.com/user-attachments/assets/fd9ac274-016b-4604-886c-c514d58f2830)
+
  
 
 
