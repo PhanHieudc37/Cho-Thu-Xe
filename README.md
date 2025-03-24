@@ -172,7 +172,8 @@ Biểu Đồ ERD:![image](https://github.com/user-attachments/assets/fd9ac274-01
 
 
 
-Sơ đồ use case:
+Sơ đồ use case:![image](https://github.com/user-attachments/assets/09f0a8c6-ae43-4971-b795-84fb000bc1af)
+
 
 Sơ đồ tổng quát:
 
@@ -180,37 +181,42 @@ Sơ đồ tổng quát:
 
 
 
-Quản lý danh sách xe:
- 
-
-Quản lý đơn thuê xe và giao xe:
+Quản lý danh sách xe:![image](https://github.com/user-attachments/assets/ee5c582b-8d16-4e32-8dae-8deaa7c6a6ff)
 
  
 
+Quản lý đơn thuê xe và giao xe:![image](https://github.com/user-attachments/assets/600cb9dd-35ba-4188-8d7f-bdd3814b3949)
 
-
-
-
-
-
-
-
-
-
-
-
-
-Quản lý thanh toán:
-
- 
-
-
-Quản lý tạo đơn thuê xe:
 
  
 
 
 
-Quản lý kho:
+
+
+
+
+
+
+
+
+
+
+
+Quản lý thanh toán:![image](https://github.com/user-attachments/assets/5e5d3ca6-ea2f-4cfa-85c7-9b1b0b7b31b9)
+
+
+ 
+
+
+Quản lý tạo đơn thuê xe:![image](https://github.com/user-attachments/assets/aafa5185-395c-4501-9fa6-29c5ee30f965)
+
+
+ 
+
+
+
+Quản lý kho:![image](https://github.com/user-attachments/assets/0af93057-2d3a-46e9-8060-5b9eacdf9119)
+
  
 
